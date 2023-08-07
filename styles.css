@@ -1,0 +1,27 @@
+* {
+    text-align: center;
+    font-family: Arila sans serif;
+}
+
+#title {
+    color: blue;
+    background-color: #D3D3D3;
+    border: solid #A9A9A9 1px;
+
+}
+
+.paragraph {
+    color: rgb(0,128,0);
+    background-color: rgba(255,255,0, 0.5);
+}
+
+div p {
+    color: red;
+    font-size: 18;
+    font-weight: bold;
+}
+
+div span {
+    color: #800080;
+    font-style: italic;
+}
